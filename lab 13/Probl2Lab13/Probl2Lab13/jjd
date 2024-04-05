@@ -1,6 +1,0 @@
-1 9 2 8 3 8 4 5 10 15 
- We order the integer values ascending:
- 1 2 3 4 5 8 8 9 10 15 
-We order the integer values descending: 
-15 10 9 8 8 5 4 3 2 1 0 
- The number of even numbers is: 5
